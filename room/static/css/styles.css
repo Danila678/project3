@@ -1,0 +1,20 @@
+{
+    box-sizing: border-box
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    front-size 62.5%;
+}
+
+body {
+    width: 100%;
+    min-height: 100vx;
+    bground: url(images/images.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
